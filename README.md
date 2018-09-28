@@ -2,4 +2,6 @@
 
 ## pyGam
 
-Working with the pyGam package to get sense of how it works (and if itis better than mboost for R)
+Working with the pyGam package to get sense of how it works (and if it's better than mboost for R).
+
+Stay tuned.
